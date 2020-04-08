@@ -154,7 +154,7 @@
     "clear:ts": "rimraf electron/dist",
     "clear:wrap": "rimraf wrap",
     "configure": "copy-config",
-    "coverage": "yarn clear:coverage && nyc report",
+    "coverage": "yarn clear:coverage && nyc report --reporter mocha-junit-reporter",
     "fix": "yarn fix:code && yarn fix:other",
     "fix:code": "yarn lint:code --fix",
     "fix:other": "yarn prettier --write",
