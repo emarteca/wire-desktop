@@ -1,0 +1,8 @@
+build-linux buildLinuxConfig honors environment variables
+build-macos buildMacOSConfig honors environment variables
+build-windows-installer buildWindowsInstallerConfig honors environment variables
+build-windows buildWindowsConfig honors environment variables
+commonConfig getCommonConfig honors environment variables
+commonConfig getCommonConfig loads the config from wire.json
+commonConfig getCommonConfig respects the hierarchy of config files
+GitHubDraftDeployer uploadAsset doesn't upload anything if dry run is set

@@ -1,0 +1,6 @@
+/home/ellen/Documents/ASJProj/TESTING_reordering/wire-desktop/bin/build-tools/lib/build-linux.test.ts
+/home/ellen/Documents/ASJProj/TESTING_reordering/wire-desktop/bin/build-tools/lib/build-macos.test.ts
+/home/ellen/Documents/ASJProj/TESTING_reordering/wire-desktop/bin/build-tools/lib/build-windows-installer.test.ts
+/home/ellen/Documents/ASJProj/TESTING_reordering/wire-desktop/bin/build-tools/lib/build.windows.test.ts
+/home/ellen/Documents/ASJProj/TESTING_reordering/wire-desktop/bin/build-tools/lib/commonConfig.test.ts
+/home/ellen/Documents/ASJProj/TESTING_reordering/wire-desktop/bin/deploy-tools/lib/GitHubDraftDeployer.test.ts

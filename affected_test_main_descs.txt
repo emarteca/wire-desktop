@@ -1,0 +1,7 @@
+openGraph decodes a text encoded with UTF-8
+openGraph decodes a russian text encoded with koi8-r
+openGraph decodes a russian text encoded with UTF-8
+openGraph defaults to utf8 on invalid charsets
+openGraph defaults to utf8 on missing charset
+openGraph throws on missing content type
+openGraph saves cookies on requests
